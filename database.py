@@ -1,3 +1,6 @@
+#program to display data in thingsboard
+
+
 import requests
 import json
 import random
@@ -109,3 +112,4 @@ while True:
         print("⚠️ Error:", e)
 
     time.sleep(5)  
+
